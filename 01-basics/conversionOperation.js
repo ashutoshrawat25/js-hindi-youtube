@@ -25,3 +25,14 @@ let stringNumber = String(someNumber);
 
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+// ***************************** OPERATIONS ***************************//
+
+let first = "ashutosh";
+let last = " rawat";
+console.log(first + last);
+
+console.log(1 + "2");
+console.log("1" + 2);
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
